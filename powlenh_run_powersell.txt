@@ -1,5 +1,2 @@
-irm itqavn.net/mas | iex
-
-hoặc
 
 irm https://massgrave.dev/get | iex
